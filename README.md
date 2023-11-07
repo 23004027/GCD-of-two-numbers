@@ -26,7 +26,6 @@ def gcd():
             gcd1=i
     print("GCD of two numbers is:",gcd1)
 ```
-
 ## Output:
 ![output](EX04.png)
 
