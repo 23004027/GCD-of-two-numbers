@@ -28,8 +28,6 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-
 ![output](EX04.png)
 
 
